@@ -1,0 +1,28 @@
+{
+  "name": "ffi",
+  "version": "1.0.0",
+  "description": "Buggy PureScript project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tsnee/ffi.git"
+  },
+  "author": "Tom Snee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsnee/ffi/issues"
+  },
+  "homepage": "https://github.com/tsnee/ffi#readme",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
